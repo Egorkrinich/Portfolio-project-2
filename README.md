@@ -1,7 +1,7 @@
 # Portfolio-project-2
 Hounter landing page built with HTML, CSS and JavaScript
 
-[Open](https://egorkrinich.github.io/Portfolio-project-2/)
+[Open](https://egorkrinich.github.io/Hounter-landing-page/)
 
 Technology
 
